@@ -1,0 +1,14 @@
+.hhhhh {
+    color: black;
+    border: 0cap;
+    background-color: white;
+    box-shadow: inset;
+    font-size: xx-large;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
